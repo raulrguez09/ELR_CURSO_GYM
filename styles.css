@@ -79,6 +79,11 @@ p.parrafo_personalizado {
         width:560px;
         height:315px;
     }
+
+    video{ 
+        width:1200px;
+        height:1000px;
+    }
 }
 
 
@@ -115,3 +120,11 @@ section#objetivos {
     margin-top: 20;
 }
 
+/* Estilos para la página de Temario */
+section#temario {
+    background-color: #fff;
+    padding: 40px;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    margin-top: 20;
+}
